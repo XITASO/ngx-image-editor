@@ -20,7 +20,6 @@ import {NoopAnimationsModule} from "@angular/platform-browser/animations";
     providers: [
     ],
     imports: [
-        BrowserModule,
         FormsModule,
         ReactiveFormsModule,
         NoopAnimationsModule,
